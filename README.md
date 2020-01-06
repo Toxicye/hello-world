@@ -1,2 +1,4 @@
 # hello-world
-Just a repository
+My Name is Jack Guan 
+I study in my school
+I want to become an Ethical Hacker and a coder
